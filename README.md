@@ -2,7 +2,7 @@
 
 ## ✅ Key Takeaways
 
-### 1. **Basic Plottingm Exercise**
+### 1. **Basic Plotting Exercise**
 
 - `plt.plot(x, y)` → Plots y-values vs x-values as a line graph.
 - `plt.title("text")` → Adds a title to the plot.
